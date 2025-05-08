@@ -7,7 +7,7 @@
 ---
 
 
-## 📊 Results Overview
+## Results Overview
 
 | Date              | Event Type              | Isolation Forest Flag | Autoencoder Error Spike | Combined Detection |
 |-------------------|--------------------------|------------------------|--------------------------|--------------------|
