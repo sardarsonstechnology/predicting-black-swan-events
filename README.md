@@ -1,3 +1,12 @@
+# Predicting Black Swan Events: Myth or Reality?  
+*An AI-Driven Approach to Market Anomaly Detection*
+
+**Author:** Muhammad Sardar  
+📄 [Download the Full Paper (PDF)](./Black%20Swan%20Events.pdf)
+
+---
+
+
 ## 📊 Results Overview
 
 | Date              | Event Type              | Isolation Forest Flag | Autoencoder Error Spike | Combined Detection |
@@ -8,7 +17,3 @@
 | August 30th, 2023 | Noise Disturbance        | No                    | No                       | No                 |
 
 The combined anomaly detection from HCAAD flagged each major synthetic Black Swan simulation successfully, reducing false positives compared to using either model alone.
-
-📄 [Download the Full Paper (PDF)](./Black%20Swan%20Events.pdf)
-
-**Author:** Muhammad Sardar 
